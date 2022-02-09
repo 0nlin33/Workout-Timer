@@ -1,0 +1,15 @@
+This is simply a test project to mark how much I have learned c++.
+
+How this works:
+
+During workout, you will have certain time for each rep alongside the rest period and the number of time you will repeat this process. As such, this project aims to facilitate you an easy timer while your workout.
+
+First, it will ask you to enter your active time during workout in minutes.
+
+Secondly, it will ask you for your rest period in seconds.
+
+Lastly, you will be asked to enter how many times you would like to repeat this process.
+
+Once an active period and rest period is over, it is considered one rep and the clock will stop until you press anything on the keyboard. This is to help you keep proper track of your session progression.
+
+Note: There probably are some rough edges, please help me out by notifying me about it. Hope this can help in your daily struggle in getting back to shape. :) Have a good day.
